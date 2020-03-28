@@ -1,5 +1,5 @@
-**Predicting Breast Cancer Diagnostic**
-ml-assignment-bangkit
+#Predicting Breast Cancer Diagnosti
+**ml-assignment-bangkit**
 
 This project to predict whether the cancer is benign or malignant of breast cancer patients. Data from Kaggle
 
