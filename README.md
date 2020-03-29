@@ -8,6 +8,8 @@ This project to predict whether the cancer is benign or malignant of breast canc
 	Tutorial Source = https://www.tensorflow.org/tutorials
 
 	Theory Source = https://developers.google.com/machine-learning/crash-course
+	
+	Tools Source = https://colab.research.google.com/
 
 
 ## Contact us further for suggestions and criticism in linkedin
