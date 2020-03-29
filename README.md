@@ -10,7 +10,7 @@ Tutorial Source = https://www.tensorflow.org/tutorials
 Theory Source = https://developers.google.com/machine-learning/crash-course
 
 
-Contact us further for suggestions and criticism in linkedin 
+**Contact us further for suggestions and criticism in linkedin **
 
 https://www.linkedin.com/in/oktaviacitraaa/
 
