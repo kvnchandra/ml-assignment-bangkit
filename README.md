@@ -1,7 +1,7 @@
 ## Predicting Breast Cancer Diagnostic
 **Attention! read most important information of this repository**
 
-Because we can't resolve conflict to update the newest version of main.ipynb, so that we've uploaded it to be "main (Predict Breast Cancer).ipynb" That've been fixed notebook for our project
+Because we can't resolve conflict in github (to pull and merge) to update the newest version of main.ipynb, so that we've uploaded it to be "main (Predict Breast Cancer).ipynb" That've been fixed notebook for our project
 
 **ml-assignment-bangkit**
 
