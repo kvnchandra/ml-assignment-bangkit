@@ -22,4 +22,4 @@ This project to predict whether the cancer is benign or malignant of breast canc
 
 	https://www.linkedin.com/in/ganinurfadli/
 
-	linkedin kevin
+	https://www.linkedin.com/in/kevin-chandra-24b2a0197/
